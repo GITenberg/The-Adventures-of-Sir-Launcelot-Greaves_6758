@@ -1,0 +1,50 @@
+_repo: The-Adventures-of-Sir-Launcelot-Greaves_6758
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 6758/6758-h/images/g-titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollet, T. (Tobias)
+    - Smollett, Tobias George
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+description: "The Life and Adventures of Sir Launcelot Greaves, a novel by Tobias\
+  \ Smollett, was published in 1760 in the monthly paper The British Magazine. Its\
+  \ first number, published in January, 1760, contained the first installment of Smollett’s\
+  \ fourth novel. The novel, Smollett's shortest, differs stylistically from his previous\
+  \ works.\nSir Launcelot is virtuous and strange, and he is surrounded by a Smollettian\
+  \ menagerie whose various jargons are part of this novel's linguistic virtuosity\
+  \ and satire. He is an eighteenth-century gentleman who rides about the country\
+  \ in armour, attended by his comic squire, Timothy Crabshaw, redressing grievances.\
+  \ These characters are obviously inspired by Don Quixote and Sancho Panza, and Smollett's\
+  \ novel has been compared unfavorably with Cervantes'.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6758'
+  wikidata: Q7747148
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcc 'PR'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Mentally ill -- Fiction'
+- !lcsh 'Quests (Expeditions) -- Fiction'
+- GITenberg
+title: The Adventures of Sir Launcelot Greaves
+url: http://www.gutenberg.org/ebooks/6758
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Life_and_Adventures_of_Sir_Launcelot_Greaves
