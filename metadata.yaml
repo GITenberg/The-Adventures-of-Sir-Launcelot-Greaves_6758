@@ -1,10 +1,8 @@
 _repo: The-Adventures-of-Sir-Launcelot-Greaves_6758
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 6758/6758-h/images/g-titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smollett, T. (Tobias)
@@ -26,6 +24,8 @@ description: "The Life and Adventures of Sir Launcelot Greaves, a novel by Tobia
   \ in armour, attended by his comic squire, Timothy Crabshaw, redressing grievances.\
   \ These characters are obviously inspired by Don Quixote and Sancho Panza, and Smollett's\
   \ novel has been compared unfavorably with Cervantes'.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6758#The-Adventures-of-Sir-Launcelot-Greaves
 gutenberg_issued: '2004-09-09'
 gutenberg_type: Text
 identifiers:
